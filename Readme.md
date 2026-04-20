@@ -1,7 +1,4 @@
-import os
-
-# Contenu du fichier README.md
-readme_content = """# ⭐ StarsGallery - Android Project
+⭐ StarsGallery - Android Project
 
 **StarsGallery** est une application Android pédagogique développée dans le cadre du module de développement mobile. Elle permet de gérer, visualiser et noter un catalogue de célébrités (Stars) en utilisant les meilleures pratiques de l'architecture Android.
 
